@@ -1,0 +1,145 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/rectangle_17.jpeg
+  - assets/images/image_4.png
+  - assets/images/image_6.png
+  - assets/images/image_5.png
+  - assets/images/kitchenware_and_food_on_transparent_background_png_1.png
+  - assets/images/image_10.png
+  - assets/images/image_3.png
+  - assets/images/image_9.png
+  - assets/images/ellipse_2.jpeg
+  - assets/images/image_7.png
+  - assets/images/rectangle_18.jpeg
+  - assets/images/image_2.png
+  - assets/vectors/layer_21_x2.svg
+  - assets/vectors/about_1_x2.svg
+  - assets/vectors/wi_fi_x2.svg
+  - assets/vectors/order_history_1_x2.svg
+  - assets/vectors/battery_7_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/xmlid_49_x2.svg
+  - assets/vectors/bluetooth_7_x2.svg
+  - assets/vectors/back_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/bluetooth_1_x2.svg
+  - assets/vectors/signal_1_x2.svg
+  - assets/vectors/container_3_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/layer_22_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/signal_5_x2.svg
+  - assets/vectors/bluetooth_4_x2.svg
+  - assets/vectors/layer_23_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/alarm_4_x2.svg
+  - assets/vectors/rectangle_291_x2.svg
+  - assets/vectors/bluetooth_x2.svg
+  - assets/vectors/mask_group_x2.svg
+  - assets/vectors/group_3_x2.svg
+  - assets/vectors/container_5_x2.svg
+  - assets/vectors/signal_2_x2.svg
+  - assets/vectors/g_2209_x2.svg
+  - assets/vectors/alarm_5_x2.svg
+  - assets/vectors/group_5_x2.svg
+  - assets/vectors/alarm_1_x2.svg
+  - assets/vectors/wi_fi_4_x2.svg
+  - assets/vectors/wi_fi_1_x2.svg
+  - assets/vectors/close_11_x2.svg
+  - assets/vectors/alarm_6_x2.svg
+  - assets/vectors/burger_x2.svg
+  - assets/vectors/clip_path_group_1_x2.svg
+  - assets/vectors/signal_7_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/path_18911_x2.svg
+  - assets/vectors/frame_x2.svg
+  - assets/vectors/wi_fi_3_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/g_2390_x2.svg
+  - assets/images/kitchenware_and_food_on_transparent_background_png_1.png
+  - assets/vectors/group_2_x2.svg
+  - assets/images/image_6.png
+  - assets/images/image_9.png
+  - assets/images/image_7.png
+  - assets/images/image_5.png
+  - assets/images/image_2.png
+  - assets/images/image_4.png
+  - assets/images/image_10.png
+  - assets/images/image_3.png
+  - assets/vectors/alarm_7_x2.svg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/signal_3_x2.svg
+  - assets/vectors/wi_fi_5_x2.svg
+  - assets/vectors/bluetooth_5_x2.svg
+  - assets/vectors/layer_2_x2.svg
+  - assets/vectors/layer_24_x2.svg
+  - assets/vectors/xmlid_491_x2.svg
+  - assets/vectors/layer_25_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/images/rectangle_18.jpeg
+  - assets/images/image_10.png
+  - assets/images/rectangle_17.jpeg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/g_22091_x2.svg
+  - assets/vectors/alarm_x2.svg
+  - assets/vectors/group_x2.svg
+  - assets/vectors/back_1_x2.svg
+  - assets/vectors/signal_4_x2.svg
+  - assets/vectors/burger_1_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/bluetooth_3_x2.svg
+  - assets/vectors/container_2_x2.svg
+  - assets/vectors/wi_fi_6_x2.svg
+  - assets/vectors/rectangle_29_x2.svg
+  - assets/images/kitchenware_and_food_on_transparent_background_png_1.png
+  - assets/images/ellipse_2.jpeg
+  - assets/vectors/bluetooth_6_x2.svg
+  - assets/vectors/mask_group_1_x2.svg
+  - assets/vectors/battery_6_x2.svg
+  - assets/vectors/signal_6_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/wi_fi_7_x2.svg
+  - assets/vectors/container_4_x2.svg
+  - assets/vectors/about_x2.svg
+  - assets/vectors/group_51_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/order_history_x2.svg
+  - assets/vectors/alarm_2_x2.svg
+  - assets/vectors/clip_path_group_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/signal_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/close_1_x2.svg
+  - assets/vectors/frame_1_x2.svg
+  - assets/vectors/path_1891_x2.svg
+  - assets/vectors/wi_fi_2_x2.svg
+  - assets/vectors/g_23901_x2.svg
+  - assets/vectors/alarm_3_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/bluetooth_2_x2.svg
+
